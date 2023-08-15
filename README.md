@@ -1,0 +1,1 @@
+This is the README for the monty project for Holberton School. The monty program is a file interpreter that reads a monty bytecode file and executes the instructions present in the file.
